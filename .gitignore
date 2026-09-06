@@ -1,0 +1,16 @@
+# AVR / Atmel Studio build output
+**/Debug/
+**/.vs/
+
+# Compiled binaries
+*.elf
+*.hex
+*.eep
+*.map
+*.o
+*.d
+*.srec
+*.lss
+
+# IDE / generated metadata
+*.atsuo
